@@ -1,0 +1,13 @@
+﻿  lineSearch.cpp
+C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\САОД\Последовательная сортировка\lineSearch\lineSearch\functions.h(20,26): warning C4244: return: преобразование "_Rep" в "float", возможна потеря данных
+C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\САОД\Последовательная сортировка\lineSearch\lineSearch\functions.h(20,26): warning C4244:         with
+C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\САОД\Последовательная сортировка\lineSearch\lineSearch\functions.h(20,26): warning C4244:         [
+C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\САОД\Последовательная сортировка\lineSearch\lineSearch\functions.h(20,26): warning C4244:             _Rep=double
+C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\САОД\Последовательная сортировка\lineSearch\lineSearch\functions.h(20,26): warning C4244:         ]
+C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\САОД\Последовательная сортировка\lineSearch\lineSearch\lineSearch.cpp(15,19): warning C4305: инициализация: усечение из "double" в "float"
+  Создание кода
+  1 of 95 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  lineSearch.vcxproj -> C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\САОД\Последовательная сортировка\lineSearch\x64\Release\lineSearch.exe

@@ -1,0 +1,7 @@
+﻿  Task15.cpp
+C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\САОД\Task15\Task15\funct.h(15,57): warning C4244: return: преобразование "_Rep" в "float", возможна потеря данных
+C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\САОД\Task15\Task15\funct.h(15,57): warning C4244:         with
+C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\САОД\Task15\Task15\funct.h(15,57): warning C4244:         [
+C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\САОД\Task15\Task15\funct.h(15,57): warning C4244:             _Rep=__int64
+C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\САОД\Task15\Task15\funct.h(15,57): warning C4244:         ]
+  Task15.vcxproj -> C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\САОД\Task15\x64\Debug\Task15.exe

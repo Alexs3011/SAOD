@@ -1,0 +1,3 @@
+﻿  TemplateFunctions.cpp
+C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\САОД\Шаблоны функций\TemplateFunctions\TemplateFunctions\functions.h(87,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  TemplateFunctions.vcxproj -> C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\САОД\Шаблоны функций\TemplateFunctions\x64\Debug\TemplateFunctions.exe

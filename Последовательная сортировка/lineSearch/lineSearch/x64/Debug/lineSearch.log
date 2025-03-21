@@ -1,0 +1,3 @@
+﻿  lineSearch.cpp
+C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\САОД\Последовательная сортировка\lineSearch\lineSearch\lineSearch.cpp(15,1): warning C4717: f: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  lineSearch.vcxproj -> C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\САОД\Последовательная сортировка\lineSearch\x64\Debug\lineSearch.exe
