@@ -1,0 +1,13 @@
+﻿  list.cpp
+listClass.obj : error LNK2005: "void __cdecl test_clear(void)" (?test_clear@@YAXXZ) уже определен в list.obj
+listClass.obj : error LNK2005: "void __cdecl test_concatenate(void)" (?test_concatenate@@YAXXZ) уже определен в list.obj
+listClass.obj : error LNK2005: "void __cdecl test_find(void)" (?test_find@@YAXXZ) уже определен в list.obj
+listClass.obj : error LNK2005: "void __cdecl test_insert_at(void)" (?test_insert_at@@YAXXZ) уже определен в list.obj
+listClass.obj : error LNK2005: "void __cdecl test_remove_at(void)" (?test_remove_at@@YAXXZ) уже определен в list.obj
+listClass.obj : error LNK2005: "void __cdecl test_operator_square_brackets(void)" (?test_operator_square_brackets@@YAXXZ) уже определен в list.obj
+listClass.obj : error LNK2005: "void __cdecl test_at(void)" (?test_at@@YAXXZ) уже определен в list.obj
+listClass.obj : error LNK2005: "void __cdecl test_remove_back(void)" (?test_remove_back@@YAXXZ) уже определен в list.obj
+listClass.obj : error LNK2005: "void __cdecl test_remove_front(void)" (?test_remove_front@@YAXXZ) уже определен в list.obj
+listClass.obj : error LNK2005: "void __cdecl test_insert_back(void)" (?test_insert_back@@YAXXZ) уже определен в list.obj
+listClass.obj : error LNK2005: "void __cdecl test_insert_front(void)" (?test_insert_front@@YAXXZ) уже определен в list.obj
+C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\САОД\Класс списков\list\list\x64\Release\list.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
